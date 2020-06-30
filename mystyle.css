@@ -1,0 +1,9 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: black;
+  margin-left: 500px;
+  font-family: monospace;
+}
